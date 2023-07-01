@@ -1,4 +1,21 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <cmath>
+#include <set>
+#include <string>
+#include <stack>
+#include <queue>
+#include <vector>
+#include <map>
+#include <deque>
+#include <utility>
+#include <iomanip>
+#include <bitset>
+#include <cstdio>
+#include <iostream>
+#include <string>
+#include <vector>
+// #include<bits/stdc++.h>
 using namespace std;
 // #pragma warning(disable : 4996).
 #define Shingeki_no_Contest  \
