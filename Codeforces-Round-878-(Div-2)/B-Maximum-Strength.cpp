@@ -42,7 +42,7 @@ int main()
     {
         string s1, s2;
         cin >> s1 >> s2;
-        ll sz1 = s1.size(), sz2 = s2.size();
+        long long sz1 = s1.size(), sz2 = s2.size();
         ll mn = abs(sz1 - sz2);
         string s3;
         for (ll i = 0; i < mn; i++)

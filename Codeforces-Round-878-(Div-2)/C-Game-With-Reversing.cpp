@@ -44,7 +44,7 @@ int main()
         cin >> n;
         string s1, s2;
         cin >> s1 >> s2;
-        ll sol1 = 0, sol2 = 0;
+        long long sol1 = 0, sol2 = 0;
         bool flag1 = false, flag2 = false;
         if (s1 == s2)
             flag1 = true;

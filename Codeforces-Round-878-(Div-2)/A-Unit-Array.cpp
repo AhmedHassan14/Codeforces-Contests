@@ -40,7 +40,7 @@ int main()
     cin >> tests;
     while (tests--)
     {
-        ll n;
+        long long n;
         cin >> n;
         ll num = (n + 1) / 2, sol = 0;
         map<ll, ll> mp;
