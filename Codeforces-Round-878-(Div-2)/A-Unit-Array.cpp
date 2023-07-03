@@ -36,7 +36,7 @@ int main()
     // constrains -> multiple   pow->long long   infinite loop->while(num > 0);
     // freopen("input.txt", "r", stdin);  //freopen("output.txt", "w", stdout);
 
-    ll tests;
+    long long tests;
     cin >> tests;
     while (tests--)
     {
